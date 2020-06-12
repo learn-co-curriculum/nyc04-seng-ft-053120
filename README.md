@@ -5,3 +5,8 @@
 
 ## Lectures
 All lecture code will be pushed to this [this repo](https://github.com/learn-co-students/nyc04-seng-ft-053120). Links to code and videos for specific lectures will be added below after lectures.
+
+### Mod 0
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| `binding.pry` | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/00-binding-pry) | [Video](https://wework.zoom.com/rec/play/upAtf-mqrD83GYWT5QSDAfV8W9S8Jqqs1SBP8vcJzRq9WiYHNVaub7EWMOOho2qYCDBUF-kcLw57U_bp) |
