@@ -10,3 +10,4 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | `binding.pry` | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/00-binding-pry) | [Video](https://wework.zoom.com/rec/play/upAtf-mqrD83GYWT5QSDAfV8W9S8Jqqs1SBP8vcJzRq9WiYHNVaub7EWMOOho2qYCDBUF-kcLw57U_bp) |
+|Hashketball Review|[Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/01-hashketball-review)|[Video](https://wework.zoom.com/rec/play/78YpI7qrpm83T9aUtASDBP8rW9W1e_-s23cb-fEInx6xAHcEOwWlYrEXMOXDVKRi6b16TEWPglW0vOOY)|
