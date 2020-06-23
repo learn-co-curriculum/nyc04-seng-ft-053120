@@ -14,5 +14,6 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 
 ### Mod 1
 | Topic            | Code                | Video                |
+| -----            | ----                | -----                |
 |Hashketball Review|[Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/01-hashketball-review)|[Video](https://wework.zoom.com/rec/play/78YpI7qrpm83T9aUtASDBP8rW9W1e_-s23cb-fEInx6xAHcEOwWlYrEXMOXDVKRi6b16TEWPglW0vOOY)|
-|Intro to OOP|[Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/02-intro-to-oo)|[Video]()|
+| Intro to OOP | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/02-intro-to-oo) | [Video]() |
