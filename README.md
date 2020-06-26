@@ -19,3 +19,4 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Intro to OOP | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/02-intro-to-oo) | [Video](https://wework.zoom.com/rec/play/75B5dez-pjw3GdfD4QSDV_ZwW9XoLK2shHNL_KYNmh7nVHdQZlCgYrNDZEbM59Xv6EBgd2oH5Uxdavc) |
 |One To Many|[Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/03-one-to-many)|[Part 1](https://youtu.be/Jo4ixc3raNk) / [Part 2](https://wework.zoom.com/rec/play/u8Ikdr_9_DM3T9actQSDBvcqW425e62sg3Ae_PpcyBuxACUBZwf3YbtAMLa8p8wt7wlMQUBov5EW4rUx)|
 | Many To Many | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/04-many-to-many%20) | |
+| Inheritance | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/05-inheritance) | |
