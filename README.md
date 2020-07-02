@@ -24,3 +24,5 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Intro to SQL & ORMs | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/06-intro-to-sql-and-orms)| [Video](https://wework.zoom.com/rec/play/uZx7c-qtqDo3SYXBuQSDU_5-W47vLv2s1yNK8_sFyUy3U3RROwb1ZOREarftlPCi3BeiyIxGhDQ_nrhI)|
 | Intro to ActiveRecord | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/07-intro-to-activerecord) | [Video](https://wework.zoom.com/rec/play/6cZ_dLz-_T43Tt2StgSDAvYoW9W7e6-sgXMcqfQIzR3kVndQMQekMLpBNLDJXSYKjjE0kdLoiYQ6k0Wc) |
 | Git & GitHub | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/08-intro-to-git) | [Video](https://wework.zoom.com/rec/play/vpctdu39-jg3H4HA4gSDA6B8W9ToJ_qs1SIWq_NfxUa8WnELNgL1YLdAYiJXkH4Q8GuPadXLZAP9cGY) |
+| Active Record Associations |[Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/09-activerecord-associations) | [Video](https://youtu.be/X_g503bSZao) |
+| Eric's Project Set Up | [Code](https://github.com/learn-co-students/dumbo-web-091619/tree/master/10-cli-app) | [Video](https://youtu.be/BeDYaCU2sQo) |
