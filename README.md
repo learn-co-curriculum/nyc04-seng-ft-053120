@@ -29,3 +29,11 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Eric's Project Set Up Pt 2 (setting up TTY-Prompt) | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/11-tty-prompt) | [Video](https://wework.zoom.com/rec/share/3JNKcYDa3CRIGI3K0H3ef58oIb7paaa81yUc-aYKyk8_HqzE5-mnadO6w9rCA_PZ?startTime=1585064144000) |
 | List of tools you may find fun or interesting for project | [List](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/10-project-optional-tools-list)||
 | Hahes & the Internet | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/11-hashes-and-the-internet)| [Video](https://wework.zoom.com/rec/play/68Usf739rj83G9fE4QSDAPZ-W9TuKqus03Afr6IFxRyyVHIDZADyYbZBYOVqaEGTIkxBoSi9NY-Y1QyO) |
+
+
+
+### Mod 2
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Internet | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/12-intro-to-the-internet) | [Video](https://wework.zoom.com/rec/play/uZ18f--prT43G9SQtASDVPUoW9W9K6us1HcfrKIOzEq0W3RSNVSlZ7cbarZ_zyEtIh5maq2N9e4uGz_K) |
+| Intro to Sinatra & MVC | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/13-intro-to-sinatra-and-mvc) | [Video](https://wework.zoom.com/rec/play/usJ-f-Go_Dg3GNCRswSDVvd9W460f_is2ykaq_VbxBy2UiEFNwWnN7YSN-fQt0dLKPxh2DqpdJAJkZLF) |
