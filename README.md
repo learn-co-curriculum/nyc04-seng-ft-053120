@@ -37,4 +37,5 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | -----            | ----                | -----                |
 | Internet | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/12-intro-to-the-internet) | [Video](https://wework.zoom.com/rec/play/uZ18f--prT43G9SQtASDVPUoW9W9K6us1HcfrKIOzEq0W3RSNVSlZ7cbarZ_zyEtIh5maq2N9e4uGz_K) |
 | Intro to Sinatra & MVC | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/13-intro-to-sinatra-and-mvc) | [Video](https://youtu.be/cRAREtibITM) |
-| Sinatra CRUD Part 1 | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/14-sinatra-crud) | [Part 1](https://wework.zoom.com/rec/play/u5QlJbr6qW43SYaV5QSDVvJ7W9W1fKKs0yYfqKZemk2wWnAKYVavZuAWYuSV3evx0yz7z7WEDfH_UFD_)/[Part 1 YouTube Video](https://youtu.be/igepy8r0kNI) / [Part 2](https://youtu.be/UHpeGFg6mRs) |
+| Sinatra CRUD Part 1 | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/14-sinatra-crud) | [Part 1](https://youtu.be/igepy8r0kNI) / [Part 2](https://youtu.be/UHpeGFg6mRs) |
+| Sinatra Associations | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/15-sinatra-associations) ||
