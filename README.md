@@ -39,3 +39,4 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Intro to Sinatra & MVC | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/13-intro-to-sinatra-and-mvc) | [Video](https://youtu.be/cRAREtibITM) |
 | Sinatra CRUD Part 1 | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/14-sinatra-crud) | [Part 1](https://youtu.be/igepy8r0kNI) / [Part 2](https://youtu.be/UHpeGFg6mRs) |
 | Sinatra Associations | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/15-sinatra-associations) | [Video](https://youtu.be/wFUvtAhVs50) |
+| Intro to Rails | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/16-intro-to-rails) | [Video](https://youtu.be/dGn7cdPxppU) |
