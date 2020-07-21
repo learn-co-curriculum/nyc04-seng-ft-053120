@@ -40,6 +40,6 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Sinatra CRUD Part 1 | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/14-sinatra-crud) | [Part 1](https://youtu.be/igepy8r0kNI) / [Part 2](https://youtu.be/UHpeGFg6mRs) |
 | Sinatra Associations | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/15-sinatra-associations) | [Video](https://youtu.be/wFUvtAhVs50) |
 | Intro to Rails | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/16-intro-to-rails) | [Video](https://youtu.be/dGn7cdPxppU) |
-| Rails Forms | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/17-rails-forms) | [Video](https://youtu.be/0Vaz_LN65fg) / [Link to zoom version if Youtube is still processing](https://wework.zoom.com/rec/play/6J0rJbqv_2g3GNKc5QSDUfUoW9W-fK6s2yQa_fFcmErhUHNVYFbzZLYWardBy6pWMG0yMhMZ3QicVKse)|
+| Rails Forms | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/17-rails-forms) | [Video](https://youtu.be/0Vaz_LN65fg)|
 | Rails Associations | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/18-rails-associations) | [Video](https://youtu.be/kzlYNA99aLw) |
 | Rails Validations | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/19-rails-validations) | [Video](https://youtu.be/q9ph2sfTMZ8) |
