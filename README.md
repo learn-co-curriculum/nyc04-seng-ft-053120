@@ -43,3 +43,4 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Rails Forms | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/17-rails-forms) | [Video](https://youtu.be/0Vaz_LN65fg)|
 | Rails Associations | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/18-rails-associations) | [Video](https://youtu.be/kzlYNA99aLw) |
 | Rails Validations | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/19-rails-validations) | [Video](https://youtu.be/q9ph2sfTMZ8) |
+| Cookies & Sessions | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/20-sessions-cookies) | [Video](https://flatironschool.zoom.us/rec/play/7sUvfuz5-zg3EoGcsQSDVqJ7W9S1ff6s2nBN_6cJz0-3UiJVN1f1MrtDa-oRufBxYatsSMk6KQuIc49_?continueMode=true&_x_zm_rtaid=S54H4hqtS7mtl3Y-zqxjZg.1595451357001.7f3a7be281dd65064cd4cdeaaefbcb03&_x_zm_rhtaid=625)|
