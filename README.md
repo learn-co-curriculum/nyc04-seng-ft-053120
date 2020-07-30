@@ -45,3 +45,12 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Rails Validations | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/19-rails-validations) | [Video](https://youtu.be/q9ph2sfTMZ8) |
 | Cookies & Sessions | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/20-sessions-cookies) | [Video](https://flatironschool.zoom.us/rec/play/7sUvfuz5-zg3EoGcsQSDVqJ7W9S1ff6s2nBN_6cJz0-3UiJVN1f1MrtDa-oRufBxYatsSMk6KQuIc49_?continueMode=true&_x_zm_rtaid=S54H4hqtS7mtl3Y-zqxjZg.1595451357001.7f3a7be281dd65064cd4cdeaaefbcb03&_x_zm_rhtaid=625)|
 | Rails Auth 🔐 | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/21-auth) | [Pt 1](https://youtu.be/QEgy1Wj6maI) / [Pt 2](https://youtu.be/cPZtsNW1PVI) |
+
+## Blog Schedule
+
+| Date             | Round            | Presenters                                                                                                                               |
+| ---------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Tuesday, 08/18   | 1                | Manon Sainton, Alvee Akand, Jackson Chen, Mariamol James, Sarah Rose, Jacinta Calixte, Jorge Guillen                                                         |
+| Wednesday, 08/19 | 1                | Kelsey Dickson, Karem Ceron, Donat Pilana, Tracy Collins, Zeynab Jibreel, Tigist Alemu, Time Darden                                                  |
+| Thursday, 08/20  | 1                | Shawnae Johnson, Anh Vuong, Barbara Bontempo, Chris Allen, Calvin Gutierrez, Ge Tian                                                           |
+| Friday, 08/21    | 1                | Kevin Garcia, Chris Sanchez, Rouan Thompson, Francisco Andaur, Patricia Dros, Netaly Ramirez                               
