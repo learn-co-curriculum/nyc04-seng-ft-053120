@@ -47,6 +47,12 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Rails Auth 🔐 | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/21-auth) | [Pt 1](https://youtu.be/QEgy1Wj6maI) / [Pt 2](https://youtu.be/cPZtsNW1PVI) |
 | HTML/CSS | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/22-intro-html-css) | [Video](https://youtu.be/Zb2Z6F-qsjE) |
 
+
+### Mod 2
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Intro to JS      | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/23-intro-to-js) | [Pt 1](https://youtu.be/3vzCyxleyTs) / [Pt 2](https://youtu.be/5DuXhM3QQzM)
+
 ## Blog Schedule
 
 | Date             | Round            | Presenters                                                                                                                               |
