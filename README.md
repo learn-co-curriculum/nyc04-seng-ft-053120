@@ -53,6 +53,7 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | -----            | ----                | -----                |
 | Intro to JS      | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/23-intro-to-js) | [Pt 1](https://youtu.be/3vzCyxleyTs) / [Pt 2](https://youtu.be/5DuXhM3QQzM) | 
 | Intro to DOM      | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/24-intro-to-dom) | [Pt 1](https://youtu.be/qeqJ0K7rl_0) / [Pt 2](https://youtu.be/ktSeM4V61lU) | 
+| Events    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/25-events) | [Pt 1](https://youtu.be/TYrIRBwpTho) / [Pt 2](https://youtu.be/Ve7vG9gSZkE) | 
 
 ## Blog Schedule
 
