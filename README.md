@@ -55,6 +55,8 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Intro to DOM      | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/24-intro-to-dom) | [Pt 1](https://youtu.be/qeqJ0K7rl_0) / [Pt 2](https://youtu.be/ktSeM4V61lU) | 
 | Events    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/25-events) | [Pt 1](https://youtu.be/TYrIRBwpTho) / [Pt 2](https://youtu.be/Ve7vG9gSZkE) | 
 | Closure    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/26-closure-delegation) | [Closure](https://youtu.be/_vH-zPovI2s) / [Delegation](https://youtu.be/DvPtqBxwHKA) | 
+| Fetch    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/27-fetch) | [Pt 1](https://youtu.be/s7Jk3CLJMJw) / [Pt 2](https://youtu.be/TZ2C5vKfTW4) | 
+
 
 ## Blog Schedule
 
