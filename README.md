@@ -60,6 +60,8 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Fetch CR    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/29-fetch-cr) | [Pt 1](https://youtu.be/qsLESdnW3J8) / [Pt 2](https://youtu.be/VtdeUZpIFmI) | 
 | Fetch UD    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/30-fetch-ud) | [Pt 1](https://youtu.be/LZwqx5I-Eoc) / [Pt 2](https://youtu.be/Ocx5F7ictjQ) | 
 | Toy Tales    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/31-toy-tales) | [Pt 1](https://youtu.be/C7BadRrga6w) / [Pt 2](https://youtu.be/guO4dCN5LRM) | 
+| Mock Review    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/32-mock-review) | [Pt 1](https://youtu.be/iAxE6CrYqnU) / [Pt 2](https://youtu.be/R57q_UY_zRE) | 
+
 
 
 
