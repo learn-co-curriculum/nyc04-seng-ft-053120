@@ -62,7 +62,7 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Toy Tales    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/31-toy-tales) | [Pt 1](https://youtu.be/C7BadRrga6w) / [Pt 2](https://youtu.be/guO4dCN5LRM) | 
 | Mock Review    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/32-mock-review) | [Pt 1](https://youtu.be/iAxE6CrYqnU) / [Pt 2](https://youtu.be/R57q_UY_zRE) | 
 | Woof Woof Review    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/33-woof-woof) | [Pt 1](https://youtu.be/gQkpyXcv1oo) / [Pt 2](https://youtu.be/hiMlwvCT8CA) / [Pt 3](https://youtu.be/ISAI1p7BKCQ) | 
-
+| Rails as an API   | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/34-rails-api) | [Pt 1](https://youtu.be/3XxEyNvlmg0) / [Pt 2](https://youtu.be/G9tNZ1Ol7HA) | 
 
 
 
