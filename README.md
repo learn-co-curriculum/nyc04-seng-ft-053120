@@ -63,6 +63,8 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Mock Review    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/32-mock-review) | [Pt 1](https://youtu.be/iAxE6CrYqnU) / [Pt 2](https://youtu.be/R57q_UY_zRE) | 
 | Woof Woof Review    | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/33-woof-woof) | [Pt 1](https://youtu.be/gQkpyXcv1oo) / [Pt 2](https://youtu.be/hiMlwvCT8CA) / [Pt 3](https://youtu.be/ISAI1p7BKCQ) | 
 | Rails as an API   | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/34-rails-api) | [Pt 1](https://youtu.be/3XxEyNvlmg0) / [Pt 2](https://youtu.be/G9tNZ1Ol7HA) | 
+| Rails Serializers   | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/35-rails-serializers) | [Pt 1](https://youtu.be/nY4QRx_5VCc) / [Pt 2](https://youtu.be/PqOVPqJQo7c) | 
+| Login Functionality  | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/35.5-login) | [Video](https://youtu.be/4EGiG1vYVTY) | 
 
 
 
