@@ -66,6 +66,9 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Rails Serializers   | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/35-rails-serializers) | [Pt 1](https://youtu.be/nY4QRx_5VCc) / [Pt 2](https://youtu.be/PqOVPqJQo7c) | 
 | Login Functionality  | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/35.5-login) | [Video](https://youtu.be/4EGiG1vYVTY) | 
 | OOJS  | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/36-oojs) | [Pt 1](https://youtu.be/e4pXzlBrRlQ) / [Pt 2](https://youtu.be/1DGE7J0Wa3c) | 
+| This  | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/37-this) | [Pt 1](https://youtu.be/kwd3q3AK0Ww) / [Pt 2](https://youtu.be/GgyLTmcnPg8) | 
+| ES6  | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/38-es6) | [Pt 1](https://youtu.be/ItW7cWIYmTk) / [Pt 2](https://youtu.be/ltAP57uB6gE) | 
+| Project Presentations  | N/A | [Recording](https://youtu.be/-jvO3X3C6RA) | 
 
 
 
