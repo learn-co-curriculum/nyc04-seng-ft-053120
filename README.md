@@ -70,6 +70,10 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | ES6  | [Code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/38-es6) | [Pt 1](https://youtu.be/ItW7cWIYmTk) / [Pt 2](https://youtu.be/ltAP57uB6gE) | 
 | Project Presentations  | N/A | [Recording](https://youtu.be/-jvO3X3C6RA) | 
 
+## Mod 4
+| Intro to React  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/39-intro-to-react) | [video](https://youtu.be/YFq7j1G6T10) | 
+
+
 
 
 ## Blog Schedule
