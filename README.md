@@ -71,6 +71,8 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Project Presentations  | N/A | [Recording](https://youtu.be/-jvO3X3C6RA) | 
 
 ## Mod 4
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
 | Intro to React  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/39-intro-to-react) | [video](https://youtu.be/YFq7j1G6T10) | 
 
 
