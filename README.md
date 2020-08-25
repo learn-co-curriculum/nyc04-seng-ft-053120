@@ -75,6 +75,7 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | -----            | ----                | -----                |
 | Intro to React  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/39-intro-to-react) | [video](https://youtu.be/YFq7j1G6T10) | 
 | JSX & Props  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/40-jsx-and-props) | [video](https://youtu.be/J5R2VEy6joo) | 
+| JSX & Props  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/41-state-and-events) | [video](https://youtu.be/cDDwzmDxvSs) | 
 
 
 
