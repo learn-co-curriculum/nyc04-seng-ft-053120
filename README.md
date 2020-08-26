@@ -80,6 +80,9 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 
 
 ### Mod 4 Scrimbas
+
+Yuo can access a playlist with all videos here: [https://scrimba.com/playlist/pp6XKc3](https://scrimba.com/playlist/pp6XKc3). Individual links below: 
+
 | Topic |
 | ----- |
 | [Intro](https://scrimba.com/p/pp6XKc3/cqpDbLt4) |
