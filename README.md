@@ -79,6 +79,20 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | React Fundamentals Review  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/42-react-fundamentals-review) | [video](https://youtu.be/83TlIyMqO_Q) | 
 
 
+### Mod 4 Scrimbas
+| Topic | Video |
+| ----- | ----- |
+| Intro | https://scrimba.com/p/pp6XKc3/cqpDbLt4 |
+| JSX   | https://scrimba.com/p/pp6XKc3/c6adEpfy |
+| JSX - Solution | https://scrimba.com/p/pp6XKc3/cWvgvDUR |
+| *Bonus* Fragments | https://scrimba.com/p/pp6XKc3/c7q2q9fd |
+| Components & Props | https://scrimba.com/p/pp6XKc3/cB3w3vCJ |
+| Components & Props Exercise | https://scrimba.com/p/pp6XKc3/c9rzgqtM |
+| *Bonus* The `children` Prop | https://scrimba.com/p/pp6XKc3/cQRWrDH8 |
+| Import/Export and Code Organization | https://scrimba.com/p/pp6XKc3/cpMZyzT3 |
+| State & Lifecycle | https://scrimba.com/p/pp6XKc3/cywzvZCZ |
+| State & Events | https://scrimba.com/p/pp6XKc3/cMgWnGcL |
+
 
 
 ## Blog Schedule
