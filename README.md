@@ -97,6 +97,7 @@ Yuo can access a playlist with all videos here: [https://scrimba.com/playlist/pp
 | [State & Lifecycle](https://scrimba.com/p/pp6XKc3/cywzvZCZ) |
 | [State & Events](https://scrimba.com/p/pp6XKc3/cMgWnGcL) |
 | [Conditional Rendering](https://scrimba.com/p/pp6XKc3/cvwKn6TK) |
+| [Lists & Keys](https://scrimba.com/c/cWvgwbsa) |
 
 
 ## Blog Schedule
