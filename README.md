@@ -100,6 +100,12 @@ Yuo can access a playlist with all videos here: [https://scrimba.com/playlist/pp
 | [Conditional Rendering](https://scrimba.com/p/pp6XKc3/cvwKn6TK) |
 | [Lists & Keys](https://scrimba.com/p/pp6XKc3/cWvgwbsa) |
 | [Controlled Forms](https://scrimba.com/p/pp6XKc3/cRJ9zmCW) |
+| [Chat Exercise part 1 - Dark Mode](https://scrimba.com/p/pp6XKc3/cyw2bbAd) |
+| [Chat Exercise part 2 - Displaying Messages](https://scrimba.com/p/pp6XKc3/cg2W8Wub) |
+| [Chat Exercise part 3 - Creating Messages](https://scrimba.com/p/pp6XKc3/c36rWnT2) |
+| [Chat Exercise part 4 - Search](https://scrimba.com/p/pp6XKc3/cg2WwKAa) |
+| [Chat Exercise bonus 1 - Deleting Messages](https://scrimba.com/p/pp6XKc3/cDkmEztb) |
+| [Chat Exercise bonus 2 - Editing Messages](https://scrimba.com/p/pp6XKc3/czL28EHd) |
 
 ## Blog Schedule
 
