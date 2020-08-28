@@ -115,8 +115,8 @@ Yuo can access a playlist with all videos here: [https://scrimba.com/playlist/pp
 | Tuesday, 08/18   | 1                | Manon Sainton, Alvee Akand, Jackson Chen, Mariamol James, Sarah Rose, Jacinta Calixte, Jorge Guillen                                                         |
 | Wednesday, 08/19 | 1                | Kelsey Dickson, Karem Ceron, Donat Pilana, Tracy Collins, Zeynab Jibreel, Tigist Alemu, Time Darden                                                  |
 | Thursday, 08/20  | 1                | Shawnae Johnson, Anh Vuong, Barbara Bontempo, Chris Allen, Calvin Gutierrez, Ge Tian                                                           |
-| Friday, 08/21    | 1                | Kevin Garcia, Chris Sanchez, Rouan Thompson, Francisco Andaur, Patricia Dros, Netaly Ramirez     |        
-
+| Friday, 08/21    | 1                | Kevin Garcia, Chris Sanchez, Rouan Thompson, Francisco Andaur, Patricia Dros, Netaly Ramirez          
+                    |
 | Thursday, 09/3   | 2                | Tracy Collins, Mariamol James, Jackson Chen, Chris Sanchez, Calvin Gutierrez, Manon Sainton, Anh Vuong, Zeynab Jibreel, Tigist Alemu                                     |
 | Friday, 09/4 | 2                | Netaly Ramirez, Donat Pllana, Time Darden, Francisco Andaur, Kelsey Dickson, Sarah Rose, Shawnae Johnson, Barbara Bontempo                                      |
 | Tuesday, 09/8  | 2                | Patricia Dros, Rouan Thompson, Chris Allen, Ge Tian, Alvee Akand, Jorge Guillen, Kevin Garcia, Karem Ceron                                           |
