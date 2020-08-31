@@ -80,6 +80,7 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | React Forms  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/43-react-forms) | [video](https://youtu.be/97lopEmXXMw) |
 | Hogwarts Review  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/44-hogwarts-review) | [video](https://youtu.be/uw5PJW5nTig) |
 | Todo Group Review  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/45-todo-group-review) | [video](https://youtu.be/4ZE8qEUkZ2o) |
+| Lifecycle Methods  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/46-lifecycle-methods) | [video](https://youtu.be/2Ir7uF17zKs) |
 
 
 ### Mod 4 Scrimbas
