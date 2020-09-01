@@ -73,14 +73,15 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 ## Mod 4
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| Intro to React  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/39-intro-to-react) | [video](https://youtu.be/YFq7j1G6T10) | 
-| JSX & Props  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/40-jsx-and-props) | [video](https://youtu.be/J5R2VEy6joo) | 
-| State & Events  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/41-state-and-events) | [video](https://youtu.be/cDDwzmDxvSs) | 
-| React Fundamentals Review  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/42-react-fundamentals-review) | [video](https://youtu.be/83TlIyMqO_Q) |
-| React Forms  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/43-react-forms) | [video](https://youtu.be/97lopEmXXMw) |
-| Hogwarts Review  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/44-hogwarts-review) | [video](https://youtu.be/uw5PJW5nTig) |
-| Todo Group Review  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/45-todo-group-review) | [video](https://youtu.be/4ZE8qEUkZ2o) |
-| Lifecycle Methods  | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/46-lifecycle-methods) | [video](https://youtu.be/2Ir7uF17zKs) |
+| Intro to React | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/39-intro-to-react) | [video](https://youtu.be/YFq7j1G6T10) | 
+| JSX & Props | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/40-jsx-and-props) | [video](https://youtu.be/J5R2VEy6joo) | 
+| State & Events | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/41-state-and-events) | [video](https://youtu.be/cDDwzmDxvSs) | 
+| React Fundamentals Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/42-react-fundamentals-review) | [video](https://youtu.be/83TlIyMqO_Q) |
+| React Forms | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/43-react-forms) | [video](https://youtu.be/97lopEmXXMw) |
+| Hogwarts Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/44-hogwarts-review) | [video](https://youtu.be/uw5PJW5nTig) |
+| Todo Group Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/45-todo-group-review) | [video](https://youtu.be/4ZE8qEUkZ2o) |
+| Lifecycle Methods | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/46-lifecycle-methods) | [video](https://youtu.be/2Ir7uF17zKs) |
+| Pokemon Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/47-pokemon-searcher) | [video](https://youtu.be/vnG5WJaryYc) |
 
 
 ### Mod 4 Scrimbas
