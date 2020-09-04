@@ -82,7 +82,7 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | Todo Group Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/45-todo-group-review) | [video](https://youtu.be/4ZE8qEUkZ2o) |
 | Lifecycle Methods | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/46-lifecycle-methods) | [video](https://youtu.be/2Ir7uF17zKs) |
 | Pokemon Review | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/47-pokemon-searcher) | [video](https://youtu.be/vnG5WJaryYc) |
-
+| React Router | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/48-react-router) | [video](https://youtu.be/LjZFhnoksvM) |
 
 ### Mod 4 Scrimbas
 
