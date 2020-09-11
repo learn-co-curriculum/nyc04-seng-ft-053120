@@ -86,6 +86,7 @@ All lecture code will be pushed to this [this repo](https://github.com/learn-co-
 | React Hooks | [code](https://github.com/learn-co-students/nyc04-seng-ft-053120/tree/master/49-react-hooks) | [video](https://youtu.be/GcNCaVoLmHM) |
 | React & Rails Auth | [code + videos](https://github.com/ihollander/rails-react-auth-lecture) | | 
 | Redux | [code + videos](https://github.com/ihollander/redux-lectures) | | 
+| Project Demos | [video](https://youtu.be/35unpQWD5Wc) | |
 
 ### Mod 4 Scrimbas
 
