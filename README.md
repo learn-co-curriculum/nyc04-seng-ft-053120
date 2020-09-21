@@ -125,7 +125,6 @@ Yuo can access a playlist with all videos here: [https://scrimba.com/playlist/pp
 | Thursday, 09/3   | 2                | Tracy Collins, Mariamol James, Jackson Chen, Chris Sanchez, Calvin Gutierrez, Manon Sainton, Anh Vuong, Zeynab Jibreel, Tigist Alemu     |
 | Friday, 09/4     | 2                | Netaly Ramirez, Donat Pllana, Time Darden, Francisco Andaur, Kelsey Dickson, Sarah Rose, Shawnae Johnson, Barbara Bontempo               |
 | Tuesday, 09/8    | 2                | Patricia Dros, Rouan Thompson, Chris Allen, Ge Tian, Alvee Akand, Jorge Guillen, Kevin Garcia, Karem Ceron                 
-|
 | Thursday, 09/24   | 3                | Anh Vuong, Mariamol James, Tigist Alemu, Calvin Gutierrez, Kevin Garcia     |
 | Friday, 09/25    | 3                | Francisco Andaur, Alvee Noor Akand, Tracy Collins, Chris Allen, Patricia Dros, Time Darden              |
 | Monday, 09/28    | 3                | Kelsey Dickson, Sarah Rose, Shawnae Johnson, Jackson Chen, Netaly Ramirez, Ge Tian, Karem Ceron  
